@@ -23,4 +23,4 @@ All work to be completed by Jakob Beck.
 7. Creating a printout of the build that can be easily compared to other created builds
 8. Add the total cost of the build, including tax and shipping. Display these numbers seperately and together.
 9. If SQL is implimented, the data will be commmited to a database where the user's builds will be accessible when they reopen the program after closing it.
-  
+10. Search for supplementary codebases that will help guide and troubleshoot.
