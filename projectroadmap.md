@@ -3,10 +3,10 @@ All work to be completed by Jakob Beck.
 
 1. Evaluate the codebase located (here)[https://stackoverflow.com/questions/26001920/calculating-sales-taxes-using-functions-in-python] to determine how best to adapt it to a computer cost builder.
 2. Create the first draft of the program that:
-  3. Gets user input.
-  4. Calculates the cost of the build.
-5. Evaluate the feasability of using SQL (here)[https://www.geeksforgeeks.org/inserting-variables-to-database-table-using-python/] to see if it would be reasonable, or necessary, to use SQL to create a database of user input.
-6. Either impliment the SQL or finish coding without. The final program will include:
+  * Gets user input.
+  * Calculates the cost of the build.
+3. Evaluate the feasability of using SQL (here)[https://www.geeksforgeeks.org/inserting-variables-to-database-table-using-python/] to see if it would be reasonable, or necessary, to use SQL to create a database of user input.
+4. Either impliment the SQL or finish coding without. The final program will include:
   A. Prompt user for:
     a. CPU
     b. RAM (optionally multiple)
